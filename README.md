@@ -13,12 +13,12 @@ In terms of the actual models/simulations, we would likely illustrate the wavefu
 
 Our Core Goals will be as follows:
 
-Get into code the basic setup for illustrating the free electron and tight binding models.
+*Get into code the basic setup for illustrating the free electron and tight binding models.
 
-Make this code able to accommodate and properly represent the behavior for several 2D and 3D materials.
+*Make this code able to accommodate and properly represent the behavior for several 2D and 3D materials.
 
-Plot the wavefunctions, probability distributions, dispersion relatiosn and electron paths for each case.
+*Plot the wavefunctions, probability distributions, dispersion relatiosn and electron paths for each case.
 
-Illustrate sample reciprocal lattices and the accompanying Brillouin Zones.
+*Illustrate sample reciprocal lattices and the accompanying Brillouin Zones.
 
-Polish the code to make it more user-friendly and informative to those new to the subject of such phenomena.
+*Polish the code to make it more user-friendly and informative to those new to the subject of such phenomena.
